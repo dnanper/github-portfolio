@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Connect4 AI Agent",
+    "desc": "A simple Connect4 game simulation using the AlphaZero algorithm. Built using Python, Rust, and PyTorch.",
+    "image": "connect4",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/dnanper/Connect4-AlphaZero",
+      "code": "https://github.com/dnanper/Connect4-AlphaZero"
+    }
+  },
+  {
+    "name": "Bang Bang Game",
+    "desc": "A simple but addictive game. Built using C++ and SDL2.",
+    "image": "bangbang",
+    "category": "app",
+    "links": {
+      "view": "https://youtu.be/flNwMtlN8dg",
+      "code": "https://github.com/dnanper/Game-With-SDL2"
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "A simple library management system. Built using Java, JavaFX, and MySQL.",
+    "image": "library",
+    "category": "app",
+    "links": {
+      "view": "https://github.com/dnanper/Library-Management-With-Java",
+      "code": "https://github.com/dnanper/Library-Management-With-Java"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "A simple music player. Built using JavaScript, NodeJS, and ReactJS.",
+    "image": "musicplayer",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/dnanper/My-Music-Web-NodeJS",
+      "code": "https://github.com/dnanper/My-Music-Web-NodeJS"
+    }
+  }
+]
