@@ -10,16 +10,6 @@
     }
   },
   {
-    "name": "Smart Fitness Assistant",
-    "desc": "Intelligent multi-layer physique analysis system using AI: Sapiens Segmentation, EfficientNetV2 Classification, and Gemini Analysis.",
-    "image": "fitness",
-    "category": "ai",
-    "links": {
-      "view": "https://github.com/dnanper/Fitty-Assistant",
-      "code": "https://github.com/dnanper/Fitty-Assistant"
-    }
-  },
-  {
     "name": "ViEn Translator",
     "desc": "End-to-end Neural Machine Translation (NMT) system using the Transformer architecture, built from scratch.",
     "image": "vien",
